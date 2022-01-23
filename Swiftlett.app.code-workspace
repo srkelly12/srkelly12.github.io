@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../frontend"
+		},
+		{
+			"path": "../HTML Directory"
+		},
+		{
+			"path": "../backend"
+		},
+		{
+			"path": "../identity"
+		},
+		{
+			"path": "../core"
+		},
+		{
+			"path": "../run"
+		}
+	],
+	"settings": {}
+}
